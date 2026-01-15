@@ -14,7 +14,7 @@ using namespace std;
 
 
 bool Check_SmallCase(char ch)
-{
+{ 
 	 
 	if((ch>='a') && (ch<='z'))
     {
@@ -47,3 +47,4 @@ int main()
  
 	return 0;
 }
+
