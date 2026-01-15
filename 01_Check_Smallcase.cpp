@@ -11,7 +11,7 @@ Output - No its not small case
 
 #include<iostream>
 using namespace std;
-
+ 
 
 bool Check_SmallCase(char ch)
 { 
@@ -47,5 +47,6 @@ int main()
  
 	return 0;
 }
+
 
 
