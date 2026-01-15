@@ -17,7 +17,7 @@ bool Check_SmallCase(char ch)
 { 
 	 
 	if((ch>='a') && (ch<='z'))
-    {
+    { 
       return true;
     }
     else
@@ -47,4 +47,5 @@ int main()
  
 	return 0;
 }
+
 
