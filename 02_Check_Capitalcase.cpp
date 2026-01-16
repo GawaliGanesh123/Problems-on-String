@@ -1,5 +1,5 @@
 /* Accept Character from user and check whether its Capital case or not.
-
+ 
 Input- N
 Output- Yes its Capital case
 
@@ -49,6 +49,7 @@ int main()
 }
 
  
+
 
 
 
