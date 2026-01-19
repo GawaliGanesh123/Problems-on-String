@@ -11,7 +11,7 @@ Output - No its not Capital case
 
 #include<iostream>
 using namespace std;
-
+ 
 bool Check_CapitalCase(char ch)
 {
 	 
@@ -49,6 +49,7 @@ int main()
 }
 
  
+
 
 
 
