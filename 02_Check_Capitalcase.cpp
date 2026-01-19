@@ -2,7 +2,7 @@
  
 Input- N
 Output- Yes its Capital case
-
+ 
 Input- n
 Output - No its not Capital case
  
@@ -49,6 +49,7 @@ int main()
 }
 
  
+
 
 
 
