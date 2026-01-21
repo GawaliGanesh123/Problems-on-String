@@ -1,7 +1,7 @@
 // Write a program to Calculate the length of the string(Without using Built-in method).
 
 
-
+ 
 #include<iostream>
 using namespace std;
 
@@ -28,4 +28,5 @@ int main()
   Strlenx(Arr);
 
   return 0;
+
 }
