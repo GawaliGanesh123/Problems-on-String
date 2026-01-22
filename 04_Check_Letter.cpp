@@ -18,7 +18,7 @@ Output- Character is not present in the string
 #include<iostream>
 using namespace std;
 
-bool Check_Letter(char *str, char cValue)
+bool Check_Letter(char *str, char cValue) 
 {
 	while(*str !='\0')
 	{
@@ -56,3 +56,4 @@ int main()
 	return 0;
 
 }
+
