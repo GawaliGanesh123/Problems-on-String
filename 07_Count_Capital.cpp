@@ -11,7 +11,7 @@ Output-4
 
 #include<iostream>
 using namespace std;
-
+ 
 int Count_Capital(char *str)
 {
 	int iCnt=0;
@@ -45,4 +45,5 @@ int main()
     return 0;
 
 }
+
 
