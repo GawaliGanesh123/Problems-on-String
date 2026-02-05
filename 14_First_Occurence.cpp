@@ -6,7 +6,7 @@ Input- Ganesh
 Output-First Occurrence position is:4
 
 
-Input-Ravindra
+Input-Ravindra 
     character-z
 
 Output-Character not Found
@@ -61,3 +61,4 @@ int main()
 	return 0;
 
 }
+
