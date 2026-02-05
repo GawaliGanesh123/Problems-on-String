@@ -5,7 +5,7 @@ Input- Ganesh
 
 Output-First Occurrence position is:4
 
-
+ 
 Input-Ravindra 
     character-z
 
@@ -61,4 +61,5 @@ int main()
 	return 0;
 
 }
+
 
