@@ -8,7 +8,7 @@ using namespace std;
 
 void Copy_String(char *src, char *dest)
 {
-	while(*src !='\0')
+	while(*src !='\0') 
 	{
 	  *dest=*src;
 
@@ -33,3 +33,4 @@ int main()
 	return 0;
 
 }
+
