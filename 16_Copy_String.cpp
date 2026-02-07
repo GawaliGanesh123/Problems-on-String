@@ -1,6 +1,7 @@
 /* Accept one string from the user as the source string, take another empty string as the destination string, 
    and copy the contents of the source string into the destination string.
 */
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<iostream>
 using namespace std;
@@ -30,4 +31,5 @@ int main()
    cout<<"Copied String is:"<<Brr<<endl;
 
 	return 0;
+
 }
