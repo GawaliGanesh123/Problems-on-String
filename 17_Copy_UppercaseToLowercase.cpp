@@ -3,6 +3,12 @@
     Convert all uppercase characters from the source string into lowercase characters and copy the converted result into the destination string. 
     Finally, display the destination string.
 
+	Input- Ganesh Gawali
+	Output- ganesh gawali
+
+	Input- AMIT NEHE
+	Output-amit nehe
+
 */
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -46,3 +52,4 @@ int main()
   return 0;
 
 }
+
