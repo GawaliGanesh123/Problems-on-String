@@ -3,6 +3,12 @@
     Convert all Lowercase characters from the source string into uppercase characters and copy the converted result into the destination string. 
     Finally, display the destination string.
 
+	Input- Ganesh Gawali
+	Output- GANESH GAWALI
+
+	Input- India is my country.
+	Output- INDIA IS MY COUNTRY.
+
 */
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -47,4 +53,5 @@ int main()
   return 0;
 
 }
+
 
