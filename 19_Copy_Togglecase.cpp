@@ -3,6 +3,12 @@
    While copying characters from the source string into the destination string, convert each character into its opposite case (toggle case).
    Finally, display the destination string.
 
+   Input- Ganesh Gawali
+   Output- gANESH gAWALI
+
+   Input- INDIA is MY COUNTRY
+   Output- india IS my country
+
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -50,3 +56,4 @@ int main()
   return 0;
 
 }
+
