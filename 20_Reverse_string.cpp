@@ -16,7 +16,7 @@ using namespace std;
 
 void Reverse_String(char *str)
 {
-	char *Start=NULL;
+	char *Start=NULL; 
 	char *End=NULL;
 	char Temp='\0';
 
@@ -55,5 +55,6 @@ int main()
 	return 0;
 
 }
+
 
 
