@@ -2,7 +2,7 @@
    Finally, display the reversed string.
 
 Input-Ganesh Gawali
-Output-ilawaG hsenaG
+Output-ilawaG hsenaG 
 
 Input-India is my country
 Output-yrtnuoc ym si aidnI
@@ -55,6 +55,7 @@ int main()
 	return 0;
 
 }
+
 
 
 
