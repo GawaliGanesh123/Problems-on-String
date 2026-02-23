@@ -1,4 +1,4 @@
-/* Accept string from user and convert it into Alternate Case.
+/* Accept string from user and convert it into Alternate Case(one capital one small).
 
 Input- Ganesh Gawali
 Output-GaNeSh gAwAlI
@@ -51,6 +51,7 @@ int main()
 
     return 0;
 }
+
 
 
 
