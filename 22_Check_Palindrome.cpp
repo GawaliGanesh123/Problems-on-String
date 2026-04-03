@@ -1,7 +1,7 @@
 /* Write a  program to check whether a given string is a palindrome or not (Dont use predefined functions).
 
 Input- madam
-Output- string is palindrome
+Output- string is palindrome 
 
 Input - hello
 Output- string is not palindrome
