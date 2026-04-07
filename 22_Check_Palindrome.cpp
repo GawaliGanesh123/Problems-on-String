@@ -3,7 +3,7 @@
 Input- madam
 Output- string is palindrome 
 
-Input - hello
+Input - hello 
 Output- string is not palindrome
 
 */
