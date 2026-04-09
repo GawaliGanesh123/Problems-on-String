@@ -11,7 +11,7 @@ Output- string is not palindrome
    
 
 #include <iostream>
-using namespace std;
+using namespace std; 
 
 bool CheckPalindrome(char *str) 
 {
