@@ -14,7 +14,7 @@ Output- string is not palindrome
 using namespace std; 
 
 bool CheckPalindrome(char *str) 
-{ 
+{  
     char *start = str;
     char *end = str;
 
