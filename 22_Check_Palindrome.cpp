@@ -12,7 +12,7 @@ Output- string is not palindrome
 
 #include <iostream>       
 using namespace std; 
-  
+   
 bool CheckPalindrome(char *str) 
 {  
     char *start = str;
