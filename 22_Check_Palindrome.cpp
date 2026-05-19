@@ -17,7 +17,7 @@ bool CheckPalindrome(char *str)
 {  
     char *start = str;
     char *end = str;
-
+ 
     while (*end != '\0')
     {
         end++;
