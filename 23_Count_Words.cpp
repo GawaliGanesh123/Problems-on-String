@@ -11,7 +11,7 @@ Output- 4
 #include<iostream>
 using namespace std;
    
-int Count_Words(char *str)
+int Count_Words(char *str) 
 {
     int i = 0, iCnt = 0;
 
