@@ -6,7 +6,7 @@ Output- Gnsh Gwl.
 Input- India Is My Country.
 Output- nd s My Cntry.
 */
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<iostream>
 using namespace std;
@@ -20,14 +20,14 @@ void Remove_Vowels(char *str)
     {
         char ch = str[i];
 
-        if(ch >= 'A' && ch <= 'Z')    // Convert uppercase to lowercase
+        if(ch >= 'A' && ch <= 'Z')    // Converted uppercase to lowercase
         {
             ch = ch + 32;
         }
 
         if(!((ch=='a') || (ch=='e') || (ch=='i') || (ch=='o') || (ch=='u')))
         {
-            temp[j] = str[i];   // store original character
+            temp[j] = str[i];   // stored original character
             j++;
         }
         i++;
@@ -35,7 +35,7 @@ void Remove_Vowels(char *str)
 
     temp[j] = '\0';
 
-    // Copy back to original string
+    // Copied back to original string
     i = 0;
     while(temp[i] != '\0')
     {
