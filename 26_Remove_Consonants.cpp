@@ -6,7 +6,7 @@ Output- aea aai.
 Input- India Is My Country.
 Output- Iia I ouy.
 */
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<iostream>
 using namespace std;
@@ -19,13 +19,13 @@ void Remove_Consonants(char *str)
     {
         char ch = str[i];
 
-        // Convert uppercase to lowercase for checking
+        // Converted uppercase to lowercase for checking
         if(ch >= 'A' && ch <= 'Z')
         {
             ch = ch + 32;
         }
 
-        // Keep only vowels and spaces
+        // it will Keep only vowels and spaces
         if((ch=='a') || (ch=='e') || (ch=='i') || (ch=='o') || (ch=='u') || (str[i]==' '))
         {
             str[j] = str[i];
