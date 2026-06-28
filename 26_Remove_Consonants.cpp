@@ -12,7 +12,7 @@ Output- Iia I ouy.
 using namespace std;
 
 void Remove_Consonants(char *str) 
-{
+{ 
     int i = 0, j = 0;
 
     while(str[i] != '\0')
