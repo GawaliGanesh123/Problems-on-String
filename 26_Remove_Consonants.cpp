@@ -11,7 +11,7 @@ Output- Iia I ouy.
 #include<iostream>
 using namespace std;
 
-void Remove_Consonants(char *str)
+void Remove_Consonants(char *str) 
 {
     int i = 0, j = 0;
 
