@@ -1,13 +1,13 @@
 /* Accept string from user and capitalize the first letter of each word.
 
-Input-  i love coding
-Output- I Love Coding
+Input-  ganesh gawali
+Output- Ganesh Gawali
 
 Input-  india is my country
 Output- India Is My Country
 
 */
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<iostream>
 using namespace std;
@@ -16,7 +16,7 @@ void Capitalize_First_Letter(char *str)
 {
     int i = 0;
 
-    // Capitalize first character if it is lowercase
+    // Capitalized first character if it is lowercase
     if(str[0] >= 'a' && str[0] <= 'z')
     {
         str[0] = str[0] - 32;
