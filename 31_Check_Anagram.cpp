@@ -9,7 +9,7 @@ Input-  hello
 Output- Strings are not Anagram
 
 */
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<iostream>
 using namespace std;
@@ -19,14 +19,14 @@ bool Check_Anagram(char *str1, char *str2)
     int i = 0, j = 0;
     int iLen1 = 0, iLen2 = 0;
 
-    // Calculated length of first string
+    // Calculateded length of first string
     while(str1[i] != '\0')
     {
         iLen1++;
         i++;
     }
 
-    // Calculated length of second string
+    // Calculateded length of second string
     while(str2[j] != '\0')
     {
         iLen2++;
