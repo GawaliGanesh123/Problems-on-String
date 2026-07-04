@@ -5,7 +5,7 @@ Input-  listen
 Output- Strings are Anagram
 
 Input-  hello
-        world
+        world 
 Output- Strings are not Anagram
 
 */
