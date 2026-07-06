@@ -14,7 +14,7 @@ using namespace std;
 
 void Reverse(char *start, char *end)
 {
-    while(start < end)
+    while(start < end) 
     {
         char temp = *start;
         *start = *end;
