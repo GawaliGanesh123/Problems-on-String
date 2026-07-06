@@ -12,7 +12,7 @@ Output- Gawali Ganesh
 #include<iostream>
 using namespace std;
 
-void Reverse(char *start, char *end)
+void Reverse(char *start, char *end) 
 {
     while(start < end) 
     {
