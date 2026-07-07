@@ -12,7 +12,7 @@ Output- p
 #include<iostream>
 using namespace std;
 
-char First_Non_Repeating_Character(char *str)
+char First_Non_Repeating_Character(char *str) 
 {
     int i = 0, j = 0;
 
