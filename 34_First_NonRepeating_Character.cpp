@@ -16,7 +16,7 @@ char First_Non_Repeating_Character(char *str)
 {
     int i = 0, j = 0;
 
-    while(str[i] != '\0')
+    while(str[i] != '\0') 
     {
         int iCnt = 0;
 
