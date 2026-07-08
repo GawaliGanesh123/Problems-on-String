@@ -1,4 +1,4 @@
-/* Accept two strings from user and concatenate them.
+/* Accept two strings from user and concatenate them. 
 
 Input-
 Str1 : Hello
