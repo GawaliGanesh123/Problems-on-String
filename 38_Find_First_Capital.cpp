@@ -15,7 +15,7 @@ using namespace std;
 char First_Capital_Letter(char *str)
 {
     while(*str != '\0')
-    { 
+    {  
         if(*str >= 'A' && *str <= 'Z')
         {
             return *str;
