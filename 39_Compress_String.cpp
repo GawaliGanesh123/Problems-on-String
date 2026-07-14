@@ -11,7 +11,7 @@ Output- a2b1c2d3
 
 #include<iostream>
 using namespace std;
-
+ 
 void Compress_String(char *str)
 {
     int i = 0;
