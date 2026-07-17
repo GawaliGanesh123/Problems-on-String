@@ -12,7 +12,7 @@ Output- 4
 using namespace std;
  
 int Count_Words(char *str)
-{
+{ 
     int i = 0, iCnt = 0;
 
     while(str[i] != '\0')
